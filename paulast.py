@@ -6,7 +6,7 @@ st.markdown(mensaje)
 
 
 opciones = ("perro","gato","oveja","serpiente")
-resultado = st.radio("animales" ,opciones)
+resultado = st.radio("ANIMALES" ,opciones)
 
 if opciones == resultado[0]:
 	st.write ("woof")
