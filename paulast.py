@@ -1,6 +1,6 @@
 import streamlit as st
 
-mensaje = ":red [azuuuul]"
+mensaje =":red[azuuuul]"
 
 st.markdown(mensaje)
 
